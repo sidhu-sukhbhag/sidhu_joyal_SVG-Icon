@@ -24,7 +24,6 @@ header{
 }
 
 header img{
-<<<<<<< HEAD
     height: 50px;
 }
 
@@ -55,13 +54,35 @@ main h4 span{
 main{
     background-image: url(../images/R.jpeg);
 }
-=======
-    height: 15px;
+
+footer{
+    max-width: 360px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    text-align: center;
+    margin: 0 auto;
+    opacity: .80;
 }
 
+h4{
+    text-align: center;
+}
 
+main h4 span{
+    background-color: crimson;
+    border-radius: 20px;
+    text-shadow: 1px 1px 1px;
+    font-weight: 900;
+    padding: 5px;
+    color: darksalmon;
+}
 
->>>>>>> 45b2fb616f994f09cbae78b84d5b8797555d7a40
+main{
+    background-image: url(../images/R.jpeg);
+}
+
 
 
 
