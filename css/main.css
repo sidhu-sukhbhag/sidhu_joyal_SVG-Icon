@@ -24,6 +24,7 @@ header{
 }
 
 header img{
+<<<<<<< HEAD
     height: 50px;
 }
 
@@ -54,6 +55,13 @@ main h4 span{
 main{
     background-image: url(../images/R.jpeg);
 }
+=======
+    height: 15px;
+}
+
+
+
+>>>>>>> 45b2fb616f994f09cbae78b84d5b8797555d7a40
 
 
 
